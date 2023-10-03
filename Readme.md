@@ -1,4 +1,4 @@
-# Enhancing Security and Compliance with AWS Control Tower Landing Zone Upgrade to Version 3.2
+# Enhancing Security and Compliance with AWS Control Tower Landing Zone - Upgrade to Version 3.2
 
 In the world of cloud computing, maintaining robust security and compliance standards is paramount. One of the key tools in achieving this is AWS Control Tower, a powerful service that helps organizations set up and govern a secure, multi-account AWS environment. Recently, AWS Control Tower released version 3.2, introducing critical improvements and changes that align with best practices for enhanced security and compliance. In this blog post, we'll explore these changes, their significance, and why the upgrade to [version 3.2](https://docs.aws.amazon.com/controltower/latest/userguide/2023-all.html#lz-3-2) is essential for organizations using AWS Control Tower.
 
